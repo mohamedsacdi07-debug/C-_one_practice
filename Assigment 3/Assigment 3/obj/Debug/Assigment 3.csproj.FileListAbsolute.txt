@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\bin\Debug\Assigment 3.exe.config
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\bin\Debug\Assigment 3.exe
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\bin\Debug\Assigment 3.pdb
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\obj\Debug\Assigment 3.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\obj\Debug\Assigment_3.Form1.resources
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\obj\Debug\Assigment_3.Properties.Resources.resources
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\obj\Debug\Assigment 3.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\obj\Debug\Assigment 3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\obj\Debug\Assigment 3.exe
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\obj\Debug\Assigment 3.pdb
+C:\Users\hp\Desktop\Assigment 3\Assigment 3\obj\Debug\Assigment 3.exe.config
