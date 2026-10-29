@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\Assigment\Assigment\obj\Debug\Assigment.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Assigment\Assigment\obj\Debug\Assigment.Properties.Resources.resources
+C:\Users\hp\Desktop\Assigment\Assigment\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Assigment\Assigment\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Assigment\Assigment\bin\Debug\Assigment.exe.config
+C:\Users\hp\Desktop\Assigment\Assigment\bin\Debug\Assigment.exe
+C:\Users\hp\Desktop\Assigment\Assigment\bin\Debug\Assigment.pdb
+C:\Users\hp\Desktop\Assigment\Assigment\obj\Debug\Assigment.Form1.resources
+C:\Users\hp\Desktop\Assigment\Assigment\obj\Debug\Assigment.exe
+C:\Users\hp\Desktop\Assigment\Assigment\obj\Debug\Assigment.pdb
+C:\Users\hp\Desktop\Assigment\Assigment\obj\Debug\Assigment.exe.config
