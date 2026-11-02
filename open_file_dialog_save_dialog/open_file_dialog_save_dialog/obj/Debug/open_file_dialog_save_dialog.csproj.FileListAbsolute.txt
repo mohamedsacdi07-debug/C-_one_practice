@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\bin\Debug\open_file_dialog_save_dialog.exe.config
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\bin\Debug\open_file_dialog_save_dialog.exe
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\bin\Debug\open_file_dialog_save_dialog.pdb
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\obj\Debug\open_file_dialog_save_dialog.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\obj\Debug\open_file_dialog_save_dialog.Form1.resources
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\obj\Debug\open_file_dialog_save_dialog.Properties.Resources.resources
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\obj\Debug\open_file_dialog_save_dialog.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\obj\Debug\open_file_dialog_save_dialog.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\obj\Debug\open_file_dialog_save_dialog.exe
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\obj\Debug\open_file_dialog_save_dialog.pdb
+C:\Users\hp\Desktop\open_file_dialog_save_dialog\open_file_dialog_save_dialog\obj\Debug\open_file_dialog_save_dialog.exe.config
