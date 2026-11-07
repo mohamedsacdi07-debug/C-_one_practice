@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\bin\Debug\lab_Assigment.exe.config
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\bin\Debug\lab_Assigment.exe
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\bin\Debug\lab_Assigment.pdb
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\obj\Debug\lab_Assigment.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\obj\Debug\lab_Assigment.Form1.resources
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\obj\Debug\lab_Assigment.Properties.Resources.resources
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\obj\Debug\lab_Assigment.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\obj\Debug\lab_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\obj\Debug\lab_Assigment.exe
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\obj\Debug\lab_Assigment.pdb
+C:\Users\hp\Desktop\lab_Assigment\lab_Assigment\obj\Debug\lab_Assigment.exe.config
