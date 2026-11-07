@@ -1,0 +1,18 @@
+Student ID: 1234
+Student Name: moha
+Department: it
+Mark: 44
+Student Type: Undergraduate
+----------------------------
+Student ID: 66
+Student Name: mo
+Department: iy
+Mark: 222
+Student Type: Undergraduate
+----------------------------
+Student ID: 99
+Student Name: mohhh
+Department: dd
+Mark: 1233333
+Student Type: Undergraduate
+----------------------------
